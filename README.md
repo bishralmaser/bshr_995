@@ -4,7 +4,7 @@ using System.Collectng Systemions.Generic;
 
 namespace HomeApplianceRepairCenter
 {
-    // تمثل حالة الجهاز 
+    // تمثل حالة الجهاز.
     public enum RepairStatus
     {
         Received,
